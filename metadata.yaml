@@ -1,0 +1,36 @@
+_repo: Souvenirs-de-la-maison-des-morts_14918
+_version: 0.1.0
+alternative_title: Zapiski iz mertvogo doma. French
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoyevsky, F. M.
+    - Dostoievski, Fiodor
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fédor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: http://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14918'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Exiles -- Russia (Federation) -- Siberia -- Fiction'
+- !lcc 'PG'
+title: Souvenirs de la maison des morts
+url: http://www.gutenberg.org/ebooks/14918
